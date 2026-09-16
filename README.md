@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devam099
+- 👋 Hi, I’m @devam
 - 👀 I’m interested in ... programming 
 - 🌱 I’m currently learning ...bachelor in computer application 
 - 💞️ I’m looking to collaborate on ...
